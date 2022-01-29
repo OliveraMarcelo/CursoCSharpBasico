@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\bin\Debug\net6.0\EstructuradeControl2-Jump.exe
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\bin\Debug\net6.0\EstructuradeControl2-Jump.deps.json
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\bin\Debug\net6.0\EstructuradeControl2-Jump.runtimeconfig.json
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\bin\Debug\net6.0\EstructuradeControl2-Jump.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\bin\Debug\net6.0\ref\EstructuradeControl2-Jump.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\bin\Debug\net6.0\EstructuradeControl2-Jump.pdb
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\EstructuradeControl2-Jump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\EstructuradeControl2-Jump.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\EstructuradeControl2-Jump.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\EstructuradeControl2-Jump.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\EstructuradeControl2-Jump.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\ref\EstructuradeControl2-Jump.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\EstructuradeControl2-Jump.pdb
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructuradeControl2-Jump\obj\Debug\net6.0\EstructuradeControl2-Jump.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EstructurasDeControl3/1.0.0": {
+        "runtime": {
+          "EstructurasDeControl3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstructurasDeControl3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

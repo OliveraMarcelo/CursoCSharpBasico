@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\bin\Debug\net6.0\EstructurasDeControl3.exe
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\bin\Debug\net6.0\EstructurasDeControl3.deps.json
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\bin\Debug\net6.0\EstructurasDeControl3.runtimeconfig.json
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\bin\Debug\net6.0\EstructurasDeControl3.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\bin\Debug\net6.0\ref\EstructurasDeControl3.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\bin\Debug\net6.0\EstructurasDeControl3.pdb
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\ref\EstructurasDeControl3.dll
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.pdb
+C:\Users\lenovo\source\repos\CursoDeCBasico\EstructurasDeControl3\obj\Debug\net6.0\EstructurasDeControl3.genruntimeconfig.cache
