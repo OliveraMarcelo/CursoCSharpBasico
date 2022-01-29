@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CursoCSharpBasico\\Estructuras1\\Estructuras1.csproj",
-      "projectName": "Estructuras1",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CursoCSharpBasico\\Estructuras1\\Estructuras1.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\CursoCSharpBasico\\SentenciasDeControl\\SentenciasDeControl.csproj",
+      "projectName": "SentenciasDeControl",
+      "projectPath": "C:\\Users\\lenovo\\source\\repos\\CursoCSharpBasico\\SentenciasDeControl\\SentenciasDeControl.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CursoCSharpBasico\\Estructuras1\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\source\\repos\\CursoCSharpBasico\\SentenciasDeControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

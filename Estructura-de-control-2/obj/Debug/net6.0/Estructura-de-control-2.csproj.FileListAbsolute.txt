@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\repos\CursoCSharpBasico\Estructura-de-control-2\obj\Debug\net6.0\Estructura-de-control-2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CursoCSharpBasico\Estructura-de-control-2\obj\Debug\net6.0\Estructura-de-control-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\CursoCSharpBasico\Estructura-de-control-2\obj\Debug\net6.0\Estructura-de-control-2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CursoCSharpBasico\Estructura-de-control-2\obj\Debug\net6.0\Estructura-de-control-2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CursoCSharpBasico\Estructura-de-control-2\obj\Debug\net6.0\Estructura-de-control-2.csproj.CoreCompileInputs.cache

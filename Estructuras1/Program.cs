@@ -5,11 +5,29 @@ namespace Estructura1
     {
         static void mostrarVector(int[] v)
         {
+            Console.Write("[");
+
             for (int i = 0; i < v.Length; i++)
             {
                 Console.Write(v[i] + " ");
             }
+            Console.Write("]");
+
             Console.WriteLine("");
+        }
+
+        static double promedio(int[] vector1)
+        {
+            int suma=0;
+
+            for (int i = 0; i < vector1.Length; i++)
+            {
+                 suma += vector1[i];
+            }
+            int largo = vector1.Length;
+            int promedio = suma / largo;
+            return promedio;
+
         }
         static void mostrarMatriz(int[,] m)
         {
@@ -52,6 +70,7 @@ namespace Estructura1
             //--- vector[9] = 1
             // int [] vector = {}
             Console.WriteLine("Resultado: ");
+            promedio(vector);
 
             mostrarVector(vector);
         }
